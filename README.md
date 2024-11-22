@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @akolossa
+- 👀 I’m interested in neuroscience and machine learning/deep learning
+- 🌱 I’m currently learning the Cellular Potts Model in the Data Science Department at Radboud University
+- 💞️ I’m looking to collaborate on explainable and open-access AI
+- 📫 How to reach me: arawa.kolossa@ru.nl
+- ⚡ Fun fact: I love photography, hiking with my German Shepherd, reading, and traveling
